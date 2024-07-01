@@ -4,7 +4,7 @@
 
 ## Project Description
 
-Welcome to pl0pSec, a user-friendly, graphical interface designed to help you visualize your Trivy image scan reports effortlessly. This tool is crafted to offer DevSecOps professionals and enthusiasts a respite from the typical command-line operations without sacrificing the depth and reliability of security scanning.
+Welcome to pl0pSec, a user-friendly, graphical interface designed to help you visualize your [Trivy](https://aquasecurity.github.io/trivy/) image scan reports effortlessly. This tool is crafted to offer DevSecOps professionals and enthusiasts a respite from the typical command-line operations without sacrificing the depth and reliability of security scanning.
 
 ## Features
 
