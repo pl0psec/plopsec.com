@@ -1,4 +1,4 @@
-# pl0pSec
+# pl0psec
 
 **Because even DevSecOps deserve a break from the Command Line.**
 
