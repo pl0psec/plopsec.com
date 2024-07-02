@@ -35,7 +35,7 @@ Here are some ways you can use the command line to interact with pl0pSec:
 
 3. **Proxy Support**
    ```bash
-   trivy image --format json alpine:latest | gzip -c | curl -x http://username:password@yourproxy:port -X POST -H "Content-Type: application/json" --data-binary @- https://plopsec.com/scan
+   trivy image --format json alpine:latest | gzip -c | curl -x http://username:password@yourproxy:port -X POST -H "Content-Type: application/json" --data-binary @- https://plopsec.com/api/v1/scan
    ```
 
 ## Contributing
